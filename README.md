@@ -1,12 +1,9 @@
 ### Drew Swanigan
 
-Systems Engineer @ AMK Services — public safety, P25, dispatch consoles,
-mission-critical communications for PSAPs and electric utilities.
+Founder of [InvoiceParser Pro](https://invoiceparserpro.com). It reads invoices and bills to the line, checks that the math adds up, flags duplicates, and keeps every bill waiting for your approval before it reaches your books.
 
-Founder @ InvoiceParser Pro — production B2B SaaS for AP automation.
-[invoiceparserpro.com](https://invoiceparserpro.com)
+- **Try it:** [invoice to Excel](https://invoiceparserpro.com/invoice-to-excel), free, no signup
+- **Use it from Claude, ChatGPT or Cursor:** [invoiceparser-pro-mcp](https://github.com/DrewKraken/invoiceparser-pro-mcp)
+- **See how accurate it is:** [the open benchmark](https://github.com/DrewKraken/invoice-extraction-benchmark) and [the method](https://invoiceparserpro.com/accuracy)
 
-Most repos here are private (customer work + IPP). The contribution graph
-is the most accurate view of what I'm actually working on day-to-day.
-
-Stack: Python · FastAPI · TypeScript · Next.js · PostgreSQL · Cisco · Linux
+Most of my work lives in private repos. Questions or feedback: drew@invoiceparserpro.com
